@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/splash_padding_bottom"
+    android:paddingTop="@dimen/splash_padding_top"
+    android:background="@color/dark_purple"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:contentDescription="@string/app_name"
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:paddingStart="@dimen/splash_padding_left1"
+        android:paddingEnd="@dimen/splash_padding_right1"
+        android:src="@drawable/nyansa_icon_lighter_purple" />
+
+    <ImageView
+        android:contentDescription="@string/app_name"
+        android:id="@+id/nyansa"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:paddingStart="@dimen/splash_padding_left2"
+        android:paddingEnd="@dimen/splash_padding_right2"
+        android:src="@drawable/nyansa_white"/>
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+<resources>
+    <string name="connectedClients">All Connected Clients</string>
+    <string name="moreInfo">Click for more info</string>
+    <string name="radioInformation">Radio Information</string>
+
+    <string name="ap_group">AP Group :</string>
+    <string name="ap_model">AP Model :</string>
+    <string name="ap_name">AP Name :</string>
+    <string name="app_name">Nyansa</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_login">Change API token or URL</string>
+
+    <string name="controller_model">CTRL Model :</string>
+    <string name="controller_version">CTRL Version :</string>
+    <string name="device_search">Nyansa Search</string>
+    <string name="host">Host</string>
+    <string name="ip_address">IP :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="location_unknown">Unable to determine current location.</string>
+    <string name="Login">Log In</string>
+    <string name="longitude">Longitude :</string>
+    <string name="mac_address">MAC :</string>
+    <string name="mac">MAC</string>
+
+    <string name="password">Password</string>
+    <string name="Scan">Scan</string>
+    <string name="Search">Search</string>
+    <string name="title_activity_device_search">Device Search</string>
+    <string name="username">Username</string>
+    <string name="title_activity_device_location">Device Location</string>
+    <string name="update_coordinates">Update Coordinates</string>
+    <string name="searchBar">Search for AP or Client name</string>
+    <string name="nothing">null</string>
+
+    <string name="client">Client</string>
+    <string name="ap">Access Point</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Sub Title</string>
+
+    <string name="ap_title">AP: </string>
+
+    <string name="uuid_ap">Mac Address</string>
+    <string name="apName_ap">AP Name</string>
+    <string name="apGroup_ap">AP Group</string>
+    <string name="apModel_ap">AP Model</string>
+    <string name="ipAddress_ap">IP Address</string>
+    <string name="controllerModel_ap">CTRL Model</string>
+    <string name="controllerVersion_ap">CTRL Version</string>
+    <string name="numDevices_ap">Num Devices</string>
+
+    <string name="radio_title">Radio: </string>
+    <string name="radioChannel_radio">Radio Channel</string>
+    <string name="numDevices_radio">Num Devices</string>
+    <string name="isActive_radio">Is Active</string>
+    <string name="rfBand_radio">RF Band</string>
+    <string name="uuid_radio">UUID</string>
+
+    <string name="uuid_connectedClient">UUID</string>
+    <string name="isActive_connectedClient">Is Active</string>
+
+    <string name="client_title">Client: </string>
+    <string name="bssid_client">BSSID</string>
+    <string name="browser_client">Browser</string>
+    <string name="createdAt_client">Created At</string>
+    <string name="model_client">Model</string>
+    <string name="osAndVersion_client">Os</string>
+    <string name="userName_client">Username</string>
+    <string name="macAddress_client">Mac Address</string>
+    <string name="ipAddress_client">IP Address</string>
+    <string name="uuid_client">UUID</string>
+
+    <string name="ghz5">5 GHz</string>
+    <string name="ghz2.4">2.4 GHz</string>
+
+    <string name="login_activity">Login</string>
+    <string name="login_activity_api">Enter API Token</string>
+    <string name="login_activity_api_hint">Provided by administrator web console</string>
+    <string name="login_activity_url">Enter Nyansa URL</string>
+    <string name="login_activity_url_hint">Ex: example.nyansa.com OR example</string>
+
+
+</resources>
